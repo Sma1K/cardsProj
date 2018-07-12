@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_size">5dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+    <dimen name="padding_name">15dp</dimen>
+    <dimen name="size_name">15sp</dimen>
+    <dimen name="text_size">12sp</dimen>
+    <dimen name="overflow_width">20dp</dimen>
+    <dimen name="overflow_height">30dp</dimen>
+    <dimen name="overflow_margin_top">10dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="potato_text">The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. Potato may be applied to both the plant and the edible tuber</string>
+    <string name="tomato_text">The tomato is the edible, often red, fruit/berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The plant belongs to the nightshade family, Solanaceae.</string>
+    <string name="cabbage_text">Brassica oleracea is a plant species that includes many common foods as cultivars, including cabbage, broccoli, and gai lan.</string>
+    <string name="banana_text">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</string>
+    <string name="apple_text">An apple is a sweet, edible fruit produced by an apple tree. Apple trees are cultivated worldwide, and are the most widely grown species in the genus Malus.</string>
+</resources>
